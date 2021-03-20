@@ -336,7 +336,7 @@ a img.aligncenter {
     z-index: -1;
 }
 .navbar-dark .navbar-nav .nav-link.active::after {
-	width: 50%;
+	width: 80%;
 }
 
 /*------------------------------------------------------------------
