@@ -2519,8 +2519,8 @@ select.mobile-device {
   }
 
   .pie {
-    width: 10%;
-    height: 28px;
+    width: 5vh;
+    height:5vh;
     display: block;
     border-radius: 50%;
     float: left;
