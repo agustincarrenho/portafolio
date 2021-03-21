@@ -2468,3 +2468,40 @@ select.mobile-device {
     border-color: rgba(255, 255, 255, 0.6);
     color: rgba(255, 255, 255, 0.6);
 }
+
+.social {
+    position: fixed;
+    z-index: 3000;
+    left: 0;
+    top : 30%;
+}
+
+.social ul{
+    list-style: none;
+    padding: 40px;
+}
+
+.social ul li a {
+    display: inline-block;
+    color : transparent;
+    background:  #000;
+    padding: 10px 15px;
+    margin-top: 1em ;
+    text-decoration: none;
+    
+}
+
+.social ul li .instagram {
+    background: url('icons/instagram.png') bottom left no-repeat;   
+    background-size: 49px auto;
+}
+.social ul li .facebook {
+    background: url('icons/facebook.png') bottom left no-repeat;   
+    background-size: 49px auto;
+}
+
+.social ul li .github {
+    background: url('icons/logotipo-grande-de-github.png') bottom left no-repeat;   
+    background-size: 49px auto;
+}
+
